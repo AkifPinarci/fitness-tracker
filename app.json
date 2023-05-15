@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a080649c-b1e5-4549-a612-3a62340c22d0"
+      }
+    },
+    "owner": "makifpin"
   }
 }
